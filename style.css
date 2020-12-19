@@ -5,6 +5,7 @@
 }
 
 .line {
+    text-align:center;
     height: 6px;
     background-color: black;
     width: 70px;
